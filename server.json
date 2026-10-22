@@ -2,7 +2,12 @@
   "status": "active",
   "message": "UNDER CONSTRUCTION !",
   "valid_keys": {
-    "BOULIZTRIAL": {"duration": 1500},
+    "TRIAL-BOULIZ-V1": {"duration": 10800},
+    "LICENSE-1DAY-SNAME-BULIZ": {"duration": 86400, "max_uses": 1},
+    "LICENSE-1DAY-QST13-SL0VR": {"duration": 86400, "max_uses": 1},
+    "LICENSE-1DAY-MNI0Q-VDUAQ": {"duration": 86400, "max_uses": 1},
+    "LICENSE-1DAY-SRYAQ-BU0BE": {"duration": 86400, "max_uses": 1},
+    "LICENSE-1DAY-BALOQ-BU291": {"duration": 86400, "max_uses": 1},
     "LICENSE-3DAYS-BANUW-BLZAS": {"duration": 259200, "max_uses": 1},
     "LICENSE-3DAYS-BVBSA-BDSAJ": {"duration": 259200, "max_uses": 1},
     "LICENSE-3DAYS-HDSAG-ASDAS": {"duration": 259200, "max_uses": 1},
