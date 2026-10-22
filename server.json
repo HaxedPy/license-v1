@@ -1,6 +1,6 @@
 {
-  "status": "disabled",
-  "message": "BOULIZ IS WORKING ON IT <3",
+  "status": "active",
+  "message": "UNDER CONSTRUCTION !",
   "valid_keys": {
     "BOULIZTRIAL": {"duration": 1500},
     "LICENSE-3DAYS-BANUW-BLZAS": {"duration": 259200, "max_uses": 1},
