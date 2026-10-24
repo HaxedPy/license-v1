@@ -1,6 +1,6 @@
 {
-  "status": "active",
-  "message": "UNDER CONSTRUCTION !",
+  "status": "disabled",
+  "message": "OUTDATED VERSION! PLEASE CONTACT THE ADMIN @BOULIIZZ FOR A NEW ONE!",
   "valid_keys": {
     "TRIAL-BOULIZ-V1": {"duration": 10800},
     "LICENSE-1DAY-SNAME-BULIZ": {"duration": 86400, "max_uses": 1},
